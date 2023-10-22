@@ -1,0 +1,31 @@
+// out: false
+
+//== COLORS
+$green: #235b95;
+$green-2: #697e20;
+$brown: #714300;
+$beige: #f4ebe2;
+$line: #dcdfe5;
+$gray: #878f9d;
+$text: #424446;
+
+$primary: #235b95;
+$seccondary: #4e9fd6;
+$body-bg: #fff;
+$link-text: $primary;
+$link-hover-text: $seccondary;
+$link-active-text: $brown;
+
+$shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+
+//== FONTS
+$heading-font: "avn", sans-serif;
+$heading-font-weight: 600;
+$heading-line-height: 1.4;
+$body-font: "avn", sans-serif;
+$body-line-height: 1.5;
+$body-font-weight: 400;
+
+
+//border
+$border-radius:5px
